@@ -1,7 +1,7 @@
 # TP_3_4_SNU
 Schémas et chronogrammes pour le TP
 
-Arboraissances:
+Arboraissance:
 - Chonogramme:
   Fichiers images des chrnogrammes des composants testés
 - Schémas:
